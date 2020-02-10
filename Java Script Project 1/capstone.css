@@ -1,0 +1,148 @@
+.b1 {
+    height: 42px;
+    float: right;
+    margin-right: 11px;
+    margin-top: -33px;
+    background-color: transparent;
+    border: none;
+    font-size: large;
+    padding: 5px 20px 5px 20px;
+
+
+}
+.b1:hover{
+    background-color:#09c36d ;
+    color:white;    
+}
+
+.b2 {
+    height: 42px;
+    float: right;
+    margin-right: 35px;
+    margin-top: -33px;
+    background-color: transparent;
+    border: none;
+    font-size: large;
+    padding: 5px 20px 5px 20px;
+
+}
+.b2:hover{
+    background-color:#09c36d ;
+    color:white;    
+}
+.b3 {
+    height: 43px;
+    width: 111px;
+    background-color: #0985dce0;
+    border-radius: 0px;
+    color:white;
+    font-size: larger;
+    margin-left: -5px;;
+ 
+   
+}
+.b3:hover{
+    background-color: #0984dca1;
+}
+
+.bar {
+    margin-left: 443px;
+    width: 890px;
+    height: 35px;
+    margin-top: 56px;
+}
+.third_container{
+    position:relative;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 2%;;
+    padding: 10px;
+
+}
+
+ .card{
+    border-radius: 15px;
+    box-shadow: 3px 3px grey;
+    height: 175px;
+    width: 325px;
+    position:absolute;
+    border:1px solid grey;
+}
+
+.grid{
+    
+    height: 200px;
+    margin-left: 20%; 
+    
+}
+
+
+.blb {
+    font-size: 200%;
+color: white;
+padding: 6px 0px 0px 19px;
+}
+
+.first_container {
+    background-color: #47ca8de8;
+    height: 53px;
+}
+
+
+
+#wstar {
+    margin-left: 302px;
+    position: absolute;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+    margin-top: 10px;
+}
+
+
+#wstar1 {
+    margin-left: 302px;
+    position: absolute;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+    margin-top: 6px;
+}
+
+#wstar2 {
+    margin-left: 305px;
+    position: absolute;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+    margin-top: 8px;
+}
+
+
+#wstar3 {
+    margin-left: 302px;
+    position: absolute;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+    margin-top: 6px;
+}
+
+
+#wstar4 {
+    margin-left: 302px;
+    position: absolute;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+    margin-top: 6px;
+}
+
+#wstar5 {
+    margin-left: 302px;
+    position: absolute;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+    margin-top: 6px;
+}
